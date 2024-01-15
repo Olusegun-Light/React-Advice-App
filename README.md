@@ -16,7 +16,7 @@ This is a simple React application that fetches random advice from the [Advice S
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-advice-app.git
+   git clone https://github.com/Olusegun-Light/React-Advice-App
    cd react-advice-app
    ```  
 
